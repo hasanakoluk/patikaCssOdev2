@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    text-align: center;
+   
+}
+
+.logo{
+    margin-top: 10px;
+}
+
+.box {
+   width: 1250px;
+   height: 60px;
+   background-color:#EEEEEE;
+   margin-left: 200px;
+   margin-bottom: 5px;
+   
+}
+
+.box2{
+   width: 30%;
+   height: 5%;
+   background-color:#7EE5DA;
+   margin-left:200px;
+   padding: 10px;
+   float: left;
+}
+
+.box3 {
+    width: 15%;
+    height: 74px;
+    background-color:#70CCC2;
+    float: left;
+    margin-left: 3px;
+}
+
+.box4 {
+    width: 504px;
+    height: 74px;
+    background-color:#62B3AA;
+    float: left;
+    margin-left: 3px;
+
+}
+.clear{
+    clear: both;
+}
+.cpryt {
+    margin-top: 20px;
+}
+
+
+
